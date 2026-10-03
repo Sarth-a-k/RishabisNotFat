@@ -76,8 +76,6 @@ To change story text, hints or which puzzles a lock contains, edit `data.js`. To
 
 The game is a static file, so any static host works:
 
-- **GitHub Pages:** put `index.html` in a repository and enable Pages in the repository settings.
-- **Netlify Drop:** drag a folder containing `index.html` onto the Netlify Drop page.
 - **itch.io:** create an HTML project, upload a zip containing `index.html`, and mark it as playable in the browser.
 
 ## Useful options
